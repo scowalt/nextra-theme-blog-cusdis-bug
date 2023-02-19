@@ -1,0 +1,15 @@
+{
+  "name": "nextra-theme-blog-cusdis-bug",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:scowalt/nextra-theme-blog-cusdis-bug.git",
+  "author": "Scott Walters <me@scowalt.com>",
+  "license": "MIT",
+  "dependencies": {
+    "next": "^13.1.6",
+    "nextra": "^2.2.14",
+    "nextra-theme-blog": "^2.2.14",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  }
+}
